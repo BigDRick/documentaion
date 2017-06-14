@@ -1,0 +1,16 @@
+{
+    "plugins": ["edit-link", "custom-favicon", "mixpanel"],
+    "pluginsConfig": {
+        "edit-link": {
+            "base": "https://github.com/DevlessTeam/documentation/edit/master",
+            "label": "Edit This Page On GitHub"                                                                
+        },
+        "favicon": "images/favico.png",
+        "mixpanel": {
+            "token": "11449db5c43d7abda6be9383fab1d52c"
+        }
+    },
+    "variables": {
+        "version": "1.2.7"
+    }
+}
